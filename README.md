@@ -2,8 +2,8 @@
 
 Description. 
 This package is used to:
-	- processing: histogram matching, structural similarity, resize image
-	- utils: read image, save image, plot image, plot histogram 
+- processing: histogram matching, structural similarity, resize image
+- utils: read image, save image, plot image, plot histogram 
 
 ## Installation
 
